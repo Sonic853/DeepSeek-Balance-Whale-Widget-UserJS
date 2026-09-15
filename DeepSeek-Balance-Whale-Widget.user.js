@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         DeepSeek-Balance-Whale-Widget-UserJS
+// @name         小鲸鱼 DeepSeek API 余额挂件
 // @namespace    https://github.com/Sonic853
 // @version      1.0.0
 // @description  小鲸鱼 DeepSeek API 余额挂件：默认仅在 DeepSeek 显示，可开启全网站或本站显示，支持气泡编辑、角色及音效

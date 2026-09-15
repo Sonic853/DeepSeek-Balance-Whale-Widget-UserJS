@@ -163,7 +163,7 @@ await writeFile(new URL('../src/widget.generated.js', import.meta.url), generate
 const files = ['DSniang1.png', 'Ya1.mp3', 'Ya2.mp3', 'D1.mp3', 'D2.mp3', 'minecraft-exp-orb.wav', 'task-end-a.wav', 'bubble-petpet.gif', 'bubble-money1.gif']
 const revision = '40cebc2937aea674247a0d0e03e16c154f7b9864'
 const header = `// ==UserScript==
-// @name         DeepSeek-Balance-Whale-Widget-UserJS
+// @name         小鲸鱼 DeepSeek API 余额挂件
 // @namespace    https://github.com/Sonic853
 // @version      1.0.0
 // @description  小鲸鱼 DeepSeek API 余额挂件：默认仅在 DeepSeek 显示，可开启全网站或本站显示，支持气泡编辑、角色及音效
