@@ -1,0 +1,20 @@
+{
+  "name": "deepseek-balance-whale-widget-userjs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone userscript port of MeteorNOX's DeepSeek Balance Whale Widget",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/core.test.mjs",
+    "test:browser": "node tests/browser.mjs",
+    "test:audio": "node tests/audio.mjs",
+    "test:extension": "node tests/extension.mjs"
+  },
+  "devDependencies": {
+    "acorn": "8.15.0",
+    "esbuild": "0.25.12",
+    "playwright": "1.56.1"
+  }
+}
